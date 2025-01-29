@@ -1,6 +1,4 @@
 # Movie-Management-System
-App for renting movies with an option to rent/return/add users and UI for customers
-
 
 The project is based on recreating an application for renting movies, with various functions and an available catalog. A menu with easy-to-use options was created so that the user can manage their profile in a simple way.
 
